@@ -1,5 +1,5 @@
 # 🧑🏻‍💻 About me
-My desire to program comes from playing video games, which filled my head with questions about how things are made inside, which led me to take apart and reassemble even my calculator when I was little.
+My interest to program comes from playing video games, which filled my head with questions about how things are made inside, which led me to take apart and reassemble even my calculator when I was little.
 
 I usually play on PC and Nintendo consoles (Wii/3DS/Switch 2), and I also like to collect coins from around the world, although at the moment I am focusing on the different euro coins.
 
