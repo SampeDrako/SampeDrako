@@ -16,5 +16,4 @@ I usually play on PC and Nintendo consoles (Wii/3DS/Switch 2), and I also like t
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SampeDrako&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SampeDrako&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
